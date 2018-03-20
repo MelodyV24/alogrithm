@@ -1,0 +1,2 @@
+# alogrithm
+some alogrithm code
